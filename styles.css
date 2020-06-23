@@ -1,0 +1,50 @@
+.main {
+  background-color: #999999;
+}
+
+.title {
+  font-family: monospace;
+  font-size: 50px;
+  text-align: center;
+}
+
+.sub-title {
+  color: #505050;
+  font-size: 20px;
+  text-align: center;
+}
+
+.img-div {
+  background: white;
+  display: block;
+  margin: auto;
+  padding: 40px 0 10px 0;
+  width: 80%;
+}
+
+.image {
+  border-color: black;
+  border-style: solid;
+  border-width: 3px;
+  display: block;
+  margin: auto;
+  width: 50%;
+}
+
+.img-caption {
+  font-size: 15px;
+  text-align: center;
+}
+
+.tribute-info {
+  font-family: arial;
+  margin: auto;
+  text-align: center;
+}
+
+.list,
+.footer {
+  line-height: 2em;
+  list-style: inside;
+  text-align: center;
+}
